@@ -18,5 +18,4 @@ A simple Telegram bot that sends random jokes fetched from the JokeAPI. This bot
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/yourusername/random-joke-bot.git
-   cd random-joke-bot
+   https://github.com/asrvysx/JokesTelegramBot/ && cd JokesTelegramBot && npm install && npm start
